@@ -1,0 +1,12 @@
+{
+  "name": "sandy-mount/mcp-server",
+  "description": "mcp server",
+  "accepts": [
+    {
+      "network": "eip155:8453",
+      "asset": "USDC",
+      "address": "YOUR_WALLET_ADDRESS"
+    }
+  ],
+  "resources": []
+}
